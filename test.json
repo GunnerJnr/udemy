@@ -1,0 +1,9 @@
+{
+    "name": "David",
+    "age": 39,
+    "isHungry": true,
+    "hobbies": ["coding", "reading", "gaming"],
+    "job": {
+        "company": "GUNNERStudios"
+    }
+}
